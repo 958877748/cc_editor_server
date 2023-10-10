@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "cc_editor_server",
+  "id": "f411e013-16e5-4e08-89d0-b15f9b487c30",
+  "version": "2.4.10",
+  "isNew": false
+}
